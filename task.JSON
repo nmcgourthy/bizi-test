@@ -9,15 +9,6 @@
     "sprint": 1
   },
   {
-    "taskID": "01534172-4b4b-4e20-9857-016f2aa7ee2e",
-    "name": "Hello World",
-    "assignee": "Testing",
-    "description": "desc goes here",
-    "priority": "2",
-    "currentProgress": "In Progress",
-    "sprint": 1
-  },
-  {
     "taskID": "4388c96f-f4ea-430e-ada8-93dc64f56781",
     "name": "hello wor;ld",
     "assignee": "dscsc",
@@ -25,6 +16,15 @@
     "priority": "1",
     "length": "3",
     "currentProgress": "Done",
+    "sprint": 1
+  },
+  {
+    "taskID": "01534172-4b4b-4e20-9857-016f2aa7ee2e",
+    "name": "Hello World",
+    "assignee": "nmcgourthy",
+    "description": "desc goes here",
+    "priority": "2",
+    "currentProgress": "In Progress",
     "sprint": 1
   }
 ]
