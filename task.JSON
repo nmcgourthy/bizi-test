@@ -10,21 +10,21 @@
     "sprint": 1
   },
   {
-    "taskID": "5a592ace-6d9e-4f74-b9ca-ec5bd9110402",
-    "name": "test",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "currentProgress": "In Progress",
-    "sprint": 1
-  },
-  {
     "taskID": "01534172-4b4b-4e20-9857-016f2aa7ee2e",
     "name": "Hello World",
     "assignee": "Testing",
     "description": "desc goes here",
     "priority": "2",
     "currentProgress": "In Progress",
+    "sprint": 1
+  },
+  {
+    "taskID": "5a592ace-6d9e-4f74-b9ca-ec5bd9110402",
+    "name": "test",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "currentProgress": "To Do",
     "sprint": 1
   }
 ]
