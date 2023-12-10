@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "5a592ace-6d9e-4f74-b9ca-ec5bd9110402",
-    "name": "test",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "Done",
-    "sprint": 1
-  },
-  {
     "taskID": "4388c96f-f4ea-430e-ada8-93dc64f56781",
     "name": "hello wor;ld",
     "assignee": "dscsc",
@@ -27,6 +17,15 @@
     "priority": "2",
     "length": "4",
     "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "5a592ace-6d9e-4f74-b9ca-ec5bd9110402",
+    "name": "test",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "currentProgress": "In Progress",
     "sprint": 1
   }
 ]
