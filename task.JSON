@@ -28,16 +28,6 @@
     "sprint": 1
   },
   {
-    "taskID": "e0e34bf0-6027-4939-acc6-0142b2a87fa6",
-    "name": "Test 1",
-    "assignee": "nmcgourthy",
-    "description": "desc goes here",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "6cc06cc8-1159-469d-acf6-9916ea4e450f",
     "name": "test4",
     "assignee": "",
@@ -59,6 +49,15 @@
     "taskID": "2b26722a-88c7-48a2-8888-b928283698e2",
     "name": "test3",
     "assignee": "",
+    "description": "desc goes here",
+    "priority": "-",
+    "currentProgress": "To Do",
+    "sprint": 1
+  },
+  {
+    "taskID": "e0e34bf0-6027-4939-acc6-0142b2a87fa6",
+    "name": "Test 1",
+    "assignee": "nmcgourthy",
     "description": "desc goes here",
     "priority": "-",
     "currentProgress": "To Do",
