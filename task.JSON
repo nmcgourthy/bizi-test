@@ -8,5 +8,15 @@
     "length": "-",
     "currentProgress": "To Do",
     "sprint": 1
+  },
+  {
+    "taskID": "05dfa771-6a99-435c-95c1-9080c5f90c1e",
+    "name": "",
+    "assignee": "",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do",
+    "sprint": 0
   }
 ]
