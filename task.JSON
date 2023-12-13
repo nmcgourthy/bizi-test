@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "2a9b1a41-858a-4c75-b88f-4a3e4ff62f7b",
-    "name": "",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "9d8597ef-d968-4ad0-99db-43501bfef88f",
     "name": "",
     "assignee": "",
@@ -38,15 +28,5 @@
     "length": "-",
     "currentProgress": "To Do",
     "sprint": 0
-  },
-  {
-    "taskID": "7afac822-04b9-4a9c-8608-f182b803b656",
-    "name": "zx",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
   }
 ]
