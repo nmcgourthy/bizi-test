@@ -1,15 +1,5 @@
 [
   {
-    "taskID": "e0356dbb-e1db-4f4c-95ff-c63b1a997e83",
-    "name": "f",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "ff606b14-a5ae-45f2-ad84-13d4415d5dd7",
     "name": "dfs",
     "assignee": "",
