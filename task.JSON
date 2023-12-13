@@ -1,25 +1,5 @@
 [
   {
-    "taskID": "c56fe3ce-9c29-4bec-a110-8c2681ff4380",
-    "name": "",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
-    "taskID": "b707a62d-fcb9-48d0-80e0-d31c03128895",
-    "name": "hello there",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "633ba1a0-b477-4290-ae07-26b70f07d2d7",
     "name": "hello dawg",
     "assignee": "",
@@ -27,7 +7,7 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do",
-    "sprint": 2
+    "sprint": 1
   },
   {
     "taskID": "fdc5ed14-7a06-40c1-83f7-5c4aa8deffd8",
@@ -40,16 +20,6 @@
     "sprint": 0
   },
   {
-    "taskID": "66f63f62-ccbd-4443-9bdd-8e160b31ea7c",
-    "name": "cdsdcc",
-    "assignee": "",
-    "description": "",
-    "priority": "-",
-    "length": "-",
-    "currentProgress": "To Do",
-    "sprint": 1
-  },
-  {
     "taskID": "199ba0bd-0e16-4c98-8fab-b00a2aef84b4",
     "name": "fscc",
     "assignee": "",
@@ -57,6 +27,6 @@
     "priority": "-",
     "length": "-",
     "currentProgress": "To Do",
-    "sprint": 2
+    "sprint": 1
   }
 ]
