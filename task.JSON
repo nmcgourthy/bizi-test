@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "taskID": "307987df-4cee-4441-9e0b-21b8b660e5c1",
+    "name": "jsdf",
+    "assignee": "nmcgourthy",
+    "description": "",
+    "priority": "-",
+    "length": "-",
+    "currentProgress": "To Do",
+    "sprint": 0
+  }
+]
